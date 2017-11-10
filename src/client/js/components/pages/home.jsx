@@ -53,7 +53,7 @@ var Home = React.createClass({
                     handleRouting={this.props.handleRouting}
                 />
                 <DisqusCount/>
-            </ Page>
+            </Page>
         )
     },
     setActivePanel: function (e) {
