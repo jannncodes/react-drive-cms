@@ -3,7 +3,7 @@ configEasyDriveCms = {
     /**
      * Add the Id for the Google Sheets Dashboard file
      */
-    dashboardId: '1llkI1ntNyf5C7V78T7sNMHgyJTDUB0dtUnsvMUuDtB0',
+    dashboardId: '1-on_GfmvaEcOk7HcWfKb8B6KFRv166RkLN2YmDEtDn4',
     /**
      * Add the Url Id for the Google Web App Script to forward email from the Contact Form
      */
