@@ -9,7 +9,7 @@ var Menu = React.createClass({
                 <ul>
                     <li>
                         <i className="fa fa-home"></i>
-                        <a href="#!/home">Home</a>
+                        <a href="#!/home">Home-Test</a>
                     </li>
                     <li>
                         <i className="fa fa-user"></i>

@@ -12,4 +12,5 @@ app.use(bodyParser.json()); // support json encoded body
 app.use(bodyParser.urlencoded({ extended: true }));
 
 http.listen(3000, function(){
+  console.log('listening on port 3000');
 });
